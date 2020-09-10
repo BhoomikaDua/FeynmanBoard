@@ -1,0 +1,40 @@
+.content {
+    line-height: 45px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.block:hover {
+    background-color: #111519;
+    color: white;
+    cursor: pointer;
+}
+
+.hide {
+    display: none;
+}
+
+.panel {
+    height: 65px;
+    text-align: center;
+}
+
+#selection {
+    margin-right: 7px;
+}
+
+.understood {
+    color: #28a745;
+}
+
+.somewhatUnderstood {
+    color: #d9ad0c;
+}
+
+.notClear {
+    color: blue;
+}
+
+.rubbish {
+    color: red;
+}
